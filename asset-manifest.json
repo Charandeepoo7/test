@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Counter-Application-with-color/static/css/main.04edca25.css",
+    "main.js": "/Counter-Application-with-color/static/js/main.20bc2c78.js",
+    "static/js/787.0c3f432a.chunk.js": "/Counter-Application-with-color/static/js/787.0c3f432a.chunk.js",
+    "static/media/logo.svg": "/Counter-Application-with-color/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Counter-Application-with-color/index.html",
+    "main.04edca25.css.map": "/Counter-Application-with-color/static/css/main.04edca25.css.map",
+    "main.20bc2c78.js.map": "/Counter-Application-with-color/static/js/main.20bc2c78.js.map",
+    "787.0c3f432a.chunk.js.map": "/Counter-Application-with-color/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04edca25.css",
+    "static/js/main.20bc2c78.js"
+  ]
+}
